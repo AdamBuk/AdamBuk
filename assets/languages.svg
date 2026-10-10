@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="190" viewBox="0 0 420 190" role="img" aria-label="Nejpoužívanější jazyky">
+
+  <style>
+    .t { font: 600 16px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; fill: #e6edf3 }
+    .l { font: 400 12.5px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; fill: #8b949e }
+    .v { font: 700 22px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; fill: #e6edf3 }
+    .s { font: 400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; fill: #c9d1d9 }
+  </style>
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#11457e"/><stop offset="1" stop-color="#0d1117"/></linearGradient></defs>
+  <rect x="0.5" y="0.5" width="419" height="189" rx="14" fill="url(#g)" stroke="#30363d"/>
+  <text x="24" y="36" class="t">Nejpoužívanější jazyky</text>
+  <clipPath id="c"><rect x="24" y="56" width="372" height="10" rx="5"/></clipPath>
+  <g clip-path="url(#c)"><rect x="24.0" y="56" width="282.9" height="10" fill="#3178c6"/><rect x="306.9" y="56" width="53.1" height="10" fill="#7355dd"/><rect x="360.1" y="56" width="21.5" height="10" fill="#663399"/><rect x="381.5" y="56" width="6.0" height="10" fill="#e34c26"/><rect x="387.6" y="56" width="4.5" height="10" fill="#f1e05a"/><rect x="392.0" y="56" width="3.5" height="10" fill="#3572A5"/></g>
+  <circle cx="29" cy="90" r="5" fill="#3178c6"/>
+  <text x="40" y="94" class="s">TypeScript <tspan class="l">76,1 %</tspan></text>
+  <circle cx="225" cy="90" r="5" fill="#7355dd"/>
+  <text x="236" y="94" class="s">C# <tspan class="l">14,3 %</tspan></text>
+  <circle cx="29" cy="116" r="5" fill="#663399"/>
+  <text x="40" y="120" class="s">CSS <tspan class="l">5,8 %</tspan></text>
+  <circle cx="225" cy="116" r="5" fill="#e34c26"/>
+  <text x="236" y="120" class="s">HTML <tspan class="l">1,6 %</tspan></text>
+  <circle cx="29" cy="142" r="5" fill="#f1e05a"/>
+  <text x="40" y="146" class="s">JavaScript <tspan class="l">1,2 %</tspan></text>
+  <circle cx="225" cy="142" r="5" fill="#3572A5"/>
+  <text x="236" y="146" class="s">Python <tspan class="l">1,0 %</tspan></text>
+</svg>
